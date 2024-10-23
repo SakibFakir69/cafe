@@ -18,11 +18,8 @@ function FetchApi({handelBookmarked,handelTime}) {
 
 
   return (
-    <div className='w-2/3 bg-pink-300'>
-        <h1>Blogs</h1>
-        {
-            blog.length
-        }
+    <div className='w-2/3 px-4'>
+        
 
         {
             blog.map((post,key)=> <Blogs key={key} post={post} handelBookmarked={handelBookmarked} handelTime={handelTime}/>)
