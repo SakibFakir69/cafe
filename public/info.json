@@ -1,0 +1,68 @@
+[
+    {
+      "id": 1,
+      "name": "The Future of Technology",
+      "title": "The Future of Technology",
+      "hashtags": ["#Tech", "#Innovation", "#Future"],
+      "coverPhoto": "../image/1.jpg",
+      "author": {
+        "name": "John Doe",
+        "image": "../image/boy1.png"
+      },
+      "postedDate": "2024-10-01",
+      "readingTime": 8
+    },
+    {
+      "id": 2,
+      "name": "Understanding AI and Machine Learning",
+      "title": "Understanding AI and Machine Learning",
+      "hashtags": ["#AI", "#MachineLearning", "#TechTrends"],
+      "coverPhoto": "../image/2.png",
+      "author": {
+        "name": "Jane Smith",
+        "image": "../image/boy2.png"
+      },
+      "postedDate": "2024-10-05",
+      "readingTime": 10
+    },
+    {
+      "id": 3,
+      "name": "Top 10 Programming Languages in 2024",
+      "title": "Top 10 Programming Languages in 2024",
+      "hashtags": ["#Programming", "#Languages", "#2024"],
+      "coverPhoto": "../image/3.png",
+      "author": {
+        "name": "Alice Johnson",
+        "image": "../image/girl2.jpg"
+      },
+      "postedDate": "2024-10-10",
+      "readingTime": 6
+    },
+    {
+      "id": 4,
+      "name": "The Impact of Blockchain on Industries",
+      "title": "The Impact of Blockchain on Industries",
+      "hashtags": ["#Blockchain", "#Finance", "#Industry"],
+      "coverPhoto": "../image/2.png",
+      "author": {
+        "name": "Bob Lee",
+        "image": "../image/boy2.png"
+      },
+      "postedDate": "2024-10-15",
+      "readingTime": 9
+    },
+    {
+      "id": 5,
+      "name": "Exploring the World of Cybersecurity",
+      "title": "Exploring the World of Cybersecurity",
+      "hashtags": ["#Cybersecurity", "#Safety", "#Tech"],
+      "coverPhoto": "../image/1.jpg",
+      "author": {
+        "name": "Emily Davis",
+        "image": "../image/boy1.png"
+      },
+      "postedDate": "2024-10-20",
+      "readingTime": 7
+    }
+  ]
+  
